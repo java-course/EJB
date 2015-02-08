@@ -1,0 +1,1 @@
+http://piotrnowicki.com/2013/03/defining-ejb-3-1-views-local-remote-no-interface/

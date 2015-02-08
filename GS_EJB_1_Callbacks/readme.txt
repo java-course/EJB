@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/2351220/stateless-and-stateful-enterprise-java-beans
